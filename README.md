@@ -1,6 +1,6 @@
 # HW1---Code-Refactor
 
-My first refactoring project for my Full-Stack Development Course. I:
+My first refactoring project for my Full-Stack Development Course.
 
 Added semantic html elements
 
